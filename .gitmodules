@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/inkstorm10/inkstorm10.github.io.git
+	branch = master

@@ -1,0 +1,67 @@
+enable: true
+title: Suit your escort type preferences.
+subtitle: Don’t just take our word for it. Check out some of model type category.
+
+
+
+portfolio:
+  - category: Russian
+    url: "#"
+    image: "/img/russian.jpg"
+    name: Russian Models
+    description: >
+      Exotic collection of availabale staff for today.
+
+  - category: Indian
+    url: "#"
+    image: "/img/indian.jpg"
+    name: Indian Models
+    description: >
+      Exotic collection of availabale staff for today.
+
+  - category: ZeroFigure
+    url: "#"
+    image: "/img/slim.jpg"
+    name: Slim Fit Models
+    description: >
+      Exotic collection of availabale staff for today.
+
+  - category: SavitaBhabhi
+    url: "#"
+    image: "/img/savita.jpg"
+    name: Savita Bhabhi
+    description: >
+      Exotic collection of availabale staff for today.
+
+  - category: Chubby
+    url: "#"
+    image: "/img/chubby.jpg"
+    name: Chubby Body Models
+    description: >
+      Exotic collection of availabale staff for today.
+
+clients:
+  - image: "/img/clients/clients-logo1.png"
+    url: "#"
+  - image: "/img/clients/clients-logo2.png"
+    url: "#"
+  - image: "/img/clients/clients-logo3.png"
+    url: "#"
+  - image: "/img/clients/clients-logo4.png"
+    url: "#"
+  - image: "/img/clients/clients-logo5.png"
+    url: "#"
+  - image: "/img/clients/clients-logo4.png"
+    url: "#"
+  - image: "/img/clients/clients-logo3.png"
+    url: "#"
+  - image: "/img/clients/clients-logo2.png"
+    url: "#"
+  - image: "/img/clients/clients-logo1.png"
+    url: "#"
+  - image: "/img/clients/clients-logo2.png"
+    url: "#"
+  - image: "/img/clients/clients-logo3.png"
+    url: "#"
+  - image: "/img/clients/clients-logo4.png"
+    url: "#"
